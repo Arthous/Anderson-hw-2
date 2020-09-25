@@ -1,0 +1,41 @@
+.Venom{
+    float: left;
+    width: 1100px;
+    height: 800px;
+    margin-left: 200px;
+    
+}
+.bio{
+    float: right;
+}
+.row{
+    margin-top: 200px;
+}
+body {
+    background-image: url("paper.gif");
+    background-color: rgb(22, 22, 22);
+   }
+.email {
+color: whitesmoke;
+}
+.password {
+color: whitesmoke;
+}
+.check {
+color: whitesmoke;
+}
+.card1 {
+    float: right;
+}
+
+.card2 {
+    float: left;
+    margin-top: 450px;
+}
+.card3 {
+    float: right;
+}
+.card4 {
+    float: left;
+    margin-top: 400px;
+}
